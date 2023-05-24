@@ -12,7 +12,8 @@ export default defineAppConfig({
       exclude: []
     },
     header: {
-      logo: false
+      logo: false,
+      title: "Allo"
     },
     footer: {
       iconLinks: [
@@ -21,6 +22,16 @@ export default defineAppConfig({
           icon: 'simple-icons:nuxtdotjs'
         }
       ]
+    }
+  },
+
+  prose: {
+    headings: {
+      icon: ""
+    },
+
+    h1: {
+      icon: ""
     }
   }
 })
