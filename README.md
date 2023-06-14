@@ -1,7 +1,7 @@
 # Docus Starter
 
 Starter template for [Docus](https://docus.dev).
-
+Hi
 ## Clone
 
 Clone the repository (using `nuxi`):
